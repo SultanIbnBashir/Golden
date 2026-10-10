@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+   color: black;
+
+img{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 50%;
+
+}
